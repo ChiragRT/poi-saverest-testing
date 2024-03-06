@@ -8,7 +8,7 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/ChiragRT/poi-test2-saverest",
+    "repository": "https://github.com/ChiragRT/poi-saverest-testing",
     "website": "",
     "success_url": "https://t.me/testing_join",
     "env": {
